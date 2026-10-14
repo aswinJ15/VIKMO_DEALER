@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+node_modules/
+.idea/
+.vscode/
+*.sqlite3
+.DS_Store
+pgsql/
+pgdata/
+pg_temp/
+pg_bin.jar
+pg.log
+/*.csv
